@@ -1,0 +1,10 @@
+#App发布
+![](../images/xcode/fabu1.png)
+![](../images/xcode/fabu2.png)
+![](../images/xcode/fabu3.png)
+![](../images/xcode/fabu4.png)
+![](../images/xcode/fabu5.png)
+![](../images/xcode/fabu6.png)
+![](../images/xcode/fabu7.png)
+![](../images/xcode/fabu8.png)
+![](../images/xcode/fabu9.png)
