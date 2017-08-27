@@ -29,4 +29,8 @@ http://www.jianshu.com/p/4c63a52713ff
     b:取AppStore版本号
     首先要在开发者网站上获取你的AppID,
     ![](../images/ios_code/ios_update4.png)
+    ```swift
+        NSString *url = [[NSString alloc] initWithFormat:@"http://itunes.apple.com/lookup?id=%@",@"你的AppID"];
+    ```
+    ![](../images/ios_code/ios_update5.jpeg)
 
