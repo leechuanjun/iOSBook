@@ -33,4 +33,8 @@ http://www.jianshu.com/p/4c63a52713ff
         NSString *url = [[NSString alloc] initWithFormat:@"http://itunes.apple.com/lookup?id=%@",@"你的AppID"];
     ```
     ![](../images/ios_code/ios_update5.jpeg)
+    c:两个版本号比较
+    ![](../images/ios_code/ios_update6.jpeg)
 
+    d:提示框的显示和跳转到AppStore
+    ![](../images/ios_code/ios_update7.jpg)
