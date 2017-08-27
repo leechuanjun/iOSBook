@@ -1,5 +1,2 @@
-# My Book
+# OC 彩票项目
 
-Welcome in my book!
-
-****
