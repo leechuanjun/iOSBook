@@ -23,6 +23,10 @@ http://www.jianshu.com/p/4c63a52713ff
 
     > (2)代码实现
 
-    ioa:取自身的版本号
+    a:取自身的版本号
     ![](../images/ios_code/ios_update3.jpeg)
+    
+    b:取AppStore版本号
+    首先要在开发者网站上获取你的AppID,
+    ![](../images/ios_code/ios_update4.jpeg)
 
