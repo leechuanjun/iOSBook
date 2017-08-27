@@ -119,7 +119,7 @@
   * [Swift Storyboard Reference](Swift微博/storyboard_reference.md)
   * [Swift 布局TabBar](Swift微博/布局TabBar.md)
   * [Swift 访客视图](Swift微博/访客视图.md)
-* [IOS oc彩票](oc彩票/README.md)
+* [IOS OC彩票](oc彩票/README.md)
   * [IOS 自定义TabBarController](oc彩票/tabBar.md)
   * [IOS 架构NavgationController](oc彩票/navigation.md)
 * [IOS Xcode](Xcode/Xcode.md)
