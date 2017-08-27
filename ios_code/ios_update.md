@@ -11,4 +11,18 @@ http://www.jianshu.com/p/4c63a52713ff
 * 2. 第二种就是启动App时提示更新（详细的说明一下）
 
     ![](../images/ios_code/ios_update2.jpeg)
+    > (1)实现思路如下
+
+    a:取自身的版本号
+
+    b:取AppStore版本号
+
+    c:两个版本号比较
+
+    d:提示框的显示和跳转到AppStore
+
+    > (2)代码实现
+
+    ioa:取自身的版本号
+    ![](../images/ios_code/ios_update3.jpeg)
 
