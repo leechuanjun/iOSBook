@@ -28,5 +28,5 @@ http://www.jianshu.com/p/4c63a52713ff
     
     b:取AppStore版本号
     首先要在开发者网站上获取你的AppID,
-    ![](../images/ios_code/ios_update4.jpeg)
+    ![](../images/ios_code/ios_update4.png)
 
