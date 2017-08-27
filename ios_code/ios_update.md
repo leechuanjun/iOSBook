@@ -1,5 +1,4 @@
 # IOS Update
-http://www.jianshu.com/p/4c63a52713ff
 
 > 每一个APP都会迭代更新，针对更新问题，小小的总结一下。
 > 提示版本的两种更新方式
